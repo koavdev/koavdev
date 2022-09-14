@@ -24,13 +24,13 @@ jan 20 - jan 21 <br>
 
 <h3> Contact me </h3>
 
-[<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/antoniokoav)
+[<img align="left" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/antoniokoav)
 [**Linkedin Profile**](https://linkedin.com/in/antoniokoav) <br>
 Detailed information about my education, experience and certificates. <br>
 
 <br>
 
-[<img align="left" height="60" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />](mailto:koavdev@gmail.com)
+[<img align="left" height="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />](mailto:koavdev@gmail.com)
 [**Gmail**](mailto:koavdev@gmail.com) <br>
 Send me an email. <br>
 
