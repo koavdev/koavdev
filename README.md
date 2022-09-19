@@ -2,7 +2,7 @@
 
 <h3> About me </h3>
 I'm finishing degree in Systems Analysis & Development (6/6). <br>
-Learning Power BI and Python for Data Analytics. <br>
+Learning Power BI, SQL and Python for Data Analytics. <br>
 And looking for a job in Data field.
 
 <h3> Experience </h3>
