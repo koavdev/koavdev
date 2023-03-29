@@ -7,14 +7,14 @@ And looking for a job in Data field.
 
 <h3> Experience </h3>
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH3jNHyuK0SuQ/company-logo_100_100/0/1567430697578?e=1671062400&v=beta&t=17oNhCCZmF6373y1pFPdhqlnxT95YRFGa8ovhHthRq4">](https://aeromot.com.br)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH-jkKEiz_TuA/company-logo_200_200/0/1670009986185?e=1687996800&v=beta&t=NlfuWPGut5GYQakDQ6lBPpqWCshdnUpt1dJ3xmjkaxk">](https://aeromot.com.br)
 
 **IT Infrastructure Assistant** <br>
 [**Aeromot**](https://www.aeromot.com.br/) • Full-time <br>
 jan 21 - mar 21 <br>
 <br>
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH3jNHyuK0SuQ/company-logo_100_100/0/1567430697578?e=1671062400&v=beta&t=17oNhCCZmF6373y1pFPdhqlnxT95YRFGa8ovhHthRq4">](https://aeromot.com.br)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH-jkKEiz_TuA/company-logo_200_200/0/1670009986185?e=1687996800&v=beta&t=NlfuWPGut5GYQakDQ6lBPpqWCshdnUpt1dJ3xmjkaxk">](https://aeromot.com.br)
 
 **IT Intern** <br>
 [**Aeromot**](https://www.aeromot.com.br/) • Full-time <br>
