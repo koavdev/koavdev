@@ -41,7 +41,7 @@ Detailed information about my education, experience and certificates. <br>
 
 [<img align="left" height="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />](mailto:koavdev@gmail.com)
 [**Gmail**](mailto:koavdev@gmail.com) <br>
-Send me an email. koavdev@gmail.com <br>
+koavdev@gmail.com  <br> 
 
 
           
