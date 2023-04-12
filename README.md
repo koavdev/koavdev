@@ -12,7 +12,7 @@ And looking for a job in Data field.
 
 **Projects** <br>
 [**Fundo Amanhã**](https://www.fundoamanha.com/) • Volunteer <br>
-abr 23 - at moment <br>
+abr 23 - present <br>
 <br>
 
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH-jkKEiz_TuA/company-logo_200_200/0/1670009986185?e=1687996800&v=beta&t=NlfuWPGut5GYQakDQ6lBPpqWCshdnUpt1dJ3xmjkaxk">](https://aeromot.com.br)
