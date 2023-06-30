@@ -15,14 +15,14 @@ And looking for a job in Data field.
 abr 23 - present <br>
 <br>
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH-jkKEiz_TuA/company-logo_200_200/0/1670009986185?e=1687996800&v=beta&t=NlfuWPGut5GYQakDQ6lBPpqWCshdnUpt1dJ3xmjkaxk">](https://aeromot.com.br)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://yt3.ggpht.com/SZEjksa90qq0xpXbAJlIWIByXizjW_RlL88pNEu2wMA-UaGonHgt1nz-EsNwdMaOf1Amq_U=s68-c-k-c0x00ffffff-no-rj">](https://aeromot.com.br)
 
 **IT Infrastructure Assistant** <br>
 [**Aeromot**](https://www.aeromot.com.br/) • Full-time <br>
 jan 21 - mar 21 <br>
 <br>
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH-jkKEiz_TuA/company-logo_200_200/0/1670009986185?e=1687996800&v=beta&t=NlfuWPGut5GYQakDQ6lBPpqWCshdnUpt1dJ3xmjkaxk">](https://aeromot.com.br)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://yt3.ggpht.com/SZEjksa90qq0xpXbAJlIWIByXizjW_RlL88pNEu2wMA-UaGonHgt1nz-EsNwdMaOf1Amq_U=s68-c-k-c0x00ffffff-no-rj">](https://aeromot.com.br)
 
 **IT Intern** <br>
 [**Aeromot**](https://www.aeromot.com.br/) • Full-time <br>
