@@ -8,13 +8,6 @@ And looking for a job in Data field.
 <h3> Experience </h3>
 
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://d1fdloi71mui9q.cloudfront.net/d9QCER62TN2LvOE4WpyG_wQYdpesjx28JDDyB">](https://www.fundoamanha.com)
-
-**Projects** <br>
-[**Fundo Amanhã**](https://www.fundoamanha.com/) • Volunteer <br>
-abr 23 - present <br>
-<br>
-
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="https://yt3.ggpht.com/SZEjksa90qq0xpXbAJlIWIByXizjW_RlL88pNEu2wMA-UaGonHgt1nz-EsNwdMaOf1Amq_U=s68-c-k-c0x00ffffff-no-rj">](https://aeromot.com.br)
 
 **IT Infrastructure Assistant** <br>
