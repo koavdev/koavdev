@@ -2,7 +2,7 @@
 
 <h3> About me </h3>
 Graduated in Systems Analysis & Development. <br>
-Learning Django, React, Web3 and Blockchain. <br>
+Learning Django, Vue, Web3 and Blockchain. <br>
 
 
 <h3> Experience </h3>
