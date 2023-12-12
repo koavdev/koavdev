@@ -10,7 +10,7 @@ Learning Django, Vue, Web3 and Blockchain. <br>
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4E0BAQFRy2Io2nJOcg/company-logo_100_100/0/1681232221607?e=1702512000&v=beta&t=MVeHTlNZvfaNWGCieB_ggwuMUcJQWPyGdRi2DEblokk">](https://urbe.me)
 
 **Full-stack Developer** <br>
-[**urbe.me**](https://www.urbe.me/) • Hybrid <br>
+[**URBE.ME**](https://www.urbe.me/) • Hybrid <br>
 sep 23 - at present <br>
 <br>
 
