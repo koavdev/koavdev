@@ -7,14 +7,14 @@ Learning Django, Vue, Web3 and Blockchain. <br>
 
 <h3> Experience </h3>
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4E0BAQFRy2Io2nJOcg/company-logo_100_100/0/1681232221607?e=1702512000&v=beta&t=MVeHTlNZvfaNWGCieB_ggwuMUcJQWPyGdRi2DEblokk">](https://urbe.me)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4E0BAQFRy2Io2nJOcg/company-logo_200_200/0/1681232224031/urbemebrasil_logo?e=2147483647&v=beta&t=CzUDj5c9Prd9DTU4Ymoh5ytTXixu-g-QKd3CZ3VLIns">](https://urbe.me)
 
 **Full-stack Developer** <br>
 [**URBE.ME**](https://www.urbe.me/) • Hybrid <br>
 sep 23 - at present <br>
 <br>
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH7_Ub8IURCiw/company-logo_100_100/0/1608570441355?e=1702512000&v=beta&t=x2ADA7RlqTj5CsBmq6tYjVlYQ3fnw_c87u4EwaAWXRw">](https://nelogica.com.br)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH7_Ub8IURCiw/company-logo_200_200/0/1630481718314/nelogica_logo?e=2147483647&v=beta&t=wNnF0jNRX59zLOMi8kIAQJpCeys7ApmD0osMpzPT24I">](https://nelogica.com.br)
 
 **Support Agent II** <br>
 [**Nelogica**](https://www.nelogica.com.br/) • Full-time <br>
@@ -22,14 +22,14 @@ aug 23 - sep 23 <br>
 <br>
 
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://yt3.ggpht.com/SZEjksa90qq0xpXbAJlIWIByXizjW_RlL88pNEu2wMA-UaGonHgt1nz-EsNwdMaOf1Amq_U=s68-c-k-c0x00ffffff-no-rj">](https://aeromot.com.br)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQEADMlZJ3R1xQ/company-logo_200_200/0/1701952864601/aeromot_logo?e=2147483647&v=beta&t=sHihigxHrCMPmuTszepmCwYzIOJrbhZa5Z4Ge7c4BL0">](https://aeromot.com.br)
 
 **IT Infrastructure Assistant** <br>
 [**Aeromot**](https://www.aeromot.com.br/) • Full-time <br>
 jan 21 - mar 21 <br>
 <br>
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://yt3.ggpht.com/SZEjksa90qq0xpXbAJlIWIByXizjW_RlL88pNEu2wMA-UaGonHgt1nz-EsNwdMaOf1Amq_U=s68-c-k-c0x00ffffff-no-rj">](https://aeromot.com.br)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQEADMlZJ3R1xQ/company-logo_200_200/0/1701952864601/aeromot_logo?e=2147483647&v=beta&t=sHihigxHrCMPmuTszepmCwYzIOJrbhZa5Z4Ge7c4BL0">](https://aeromot.com.br)
 
 **IT Intern** <br>
 [**Aeromot**](https://www.aeromot.com.br/) • Full-time <br>
