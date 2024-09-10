@@ -10,7 +10,7 @@ Learning Django, Nuxt, GraphQL, Web3 and Blockchain. <br>
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4E0BAQFRy2Io2nJOcg/company-logo_200_200/0/1681232224031/urbemebrasil_logo?e=2147483647&v=beta&t=CzUDj5c9Prd9DTU4Ymoh5ytTXixu-g-QKd3CZ3VLIns">](https://urbe.me)
 
 **Full-stack Developer** <br>
-[**URBE.ME**](https://www.urbe.me/) • Hybrid <br>
+[**URBE.ME**](https://www.urbe.me/) • Full-time <br>
 sep 23 - at present <br>
 <br>
 
