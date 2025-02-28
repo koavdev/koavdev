@@ -2,7 +2,7 @@
 
 <h3> About me </h3>
 Graduated in Systems Analysis & Development. <br>
-Learning Django, Nuxt, GraphQL, Web3 and Blockchain. <br>
+Learning Django, Nuxt, GraphQL, Bitcoin and Lightning Network. <br>
 
 
 <h3> Experience </h3>
